@@ -1,0 +1,7 @@
+/*! svg4everybody v2.1.9 | github.com/jonathantneal/svg4everybody */
+
+/**
+ * @license AngularJS v1.8.2
+ * (c) 2010-2020 Google LLC. http://angularjs.org
+ * License: MIT
+ */
